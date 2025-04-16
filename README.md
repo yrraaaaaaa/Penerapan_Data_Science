@@ -1,1 +1,3 @@
 # Penerapan_Data_Science
+Latar Belakang
+Jaya Jaya Maju adalah perusahaan multinasional yang telah beroperasi sejak tahun 2000, dengan lebih dari 1000 karyawan tersebar di seluruh negeri. Meskipun telah berkembang menjadi entitas yang cukup besar, perusahaan ini masih menghadapi tantangan dalam mengelola karyawan, yang tercermin dari tingginya rasio attrition yang mencapai lebih dari 10%. Untuk mengatasi masalah ini, manajer departemen HR memerlukan bantuan dalam mengidentifikasi faktor-faktor yang berkontribusi terhadap tingginya tingkat keluar-masuk karyawan, serta dalam membuat dashboard bisnis yang dapat memonitor berbagai faktor tersebut secara efektif.
