@@ -9,6 +9,7 @@ Jaya Jaya Maju menghadapi tingkat attrition yang tinggi, melebihi 10%, yang dapa
 ## Persiapan:
 Sumber data : https://raw.githubusercontent.com/dicodingacademy/dicoding_dataset/main/employee/employee_data.csv
 ## Business Dashboard
+https://drive.google.com/file/d/1lXUQORRzwqrV8w1pX2TANBiLEhEQ6VX8/view?usp=sharing
 ![Dashboard](./Nuraisah-Dashboard.png)
 Insight Berdasarkan Data:
 - Dari overtime (lembur): Pegawai yang tidak melakukan lembur justru cenderung melakukan attrisi. Hal ini dapat menunjukkan bahwa keterlibatan rendah atau beban kerja yang tidak mencukupi mungkin membuat pegawai merasa kurang tertantang atau kurang terikat secara emosional dengan pekerjaannya.
