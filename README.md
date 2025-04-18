@@ -9,15 +9,15 @@ Jaya Jaya Maju menghadapi tingkat attrition yang tinggi, melebihi 10%, yang dapa
 ## Persiapan:
 ### Sumber data : https://raw.githubusercontent.com/dicodingacademy/dicoding_dataset/main/employee/employee_data.csv
 ### Setup Environment - Anaconda:
-conda create --name main-ds python=3.9
-conda activate main-ds
-pip install -r requirements.txt
+- conda create --name main-ds python=3.9
+- conda activate main-ds
+- pip install -r requirements.txt
 ### Setup Environment - Shell/Terminal:
-mkdir proyek_analisis_data
-cd proyek_analisis_data
-pipenv install
-pipenv shell
-pip install -r requirements.txt
+- mkdir proyek_analisis_data
+- cd proyek_analisis_data
+- pipenv install
+- pipenv shell
+- pip install -r requirements.txt
 ### Run steamlit app
 https://drive.google.com/file/d/1lXUQORRzwqrV8w1pX2TANBiLEhEQ6VX8/view?usp=sharing
 ## Business Dashboard
